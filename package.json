@@ -1,6 +1,6 @@
 {
   "name": "@domenech/encodes",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "encodes.cjs.js",
   "module": "encodes.esm.js",
   "scripts": {

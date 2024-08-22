@@ -7,8 +7,7 @@ npm install @domenech/encodes
 ```
 # Usage 
 ```js
-import {Letterize} from "encodes"
-import {Numerize} from "encodes"
+import { Letterize, Numerize } from "@domenech/encodes";
 
 console.log(Letterize.From(26)); // Outputs "AA"
 console.log(Letterize.From(701)); // Outputs "ZZ"
