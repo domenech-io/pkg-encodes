@@ -1,5 +1,5 @@
 {
-  "name": "@domenech-io/encodes",
+  "name": "@domenech/encodes",
   "version": "0.0.0",
   "main": "encodes.cjs.js",
   "module": "encodes.esm.js",
@@ -8,13 +8,25 @@
   },
   "packageManager": "pnpm@9.7.1+sha256.46f1bbc8f8020aa9869568c387198f1a813f21fb44c82f400e7d1dbde6c70b40",
   "devDependencies": {
-    "@types/node": "^22.4.2",
-    "tsx": "^4.17.0"
+    "@types/node": "22.4.2",
+    "tsx": "4.17.0"
   },
   "description": "encode utilities",
   "directories": {
     "test": "test"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "domenech-io",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/domenech-io/pkg-encodes.git"
+  },
+  "keywords": [
+    "domenech",
+    "encodes"
+  ],
+  "bugs": {
+    "url": "https://github.com/domenech-io/pkg-encodes/issues"
+  },
+  "homepage": "https://github.com/domenech-io/pkg-encodes#readme"
 }
